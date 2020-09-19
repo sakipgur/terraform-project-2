@@ -1,7 +1,7 @@
 provider "aws" {
-  region  = "us-east-1"
-  access_key = "AKIAVBKYQAW2CJ7YNYNW"
-  secret_key = "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"
+  region  = "<region>"
+  access_key = "<access_key>"
+  secret_key = "<secret_key>"
 }
 
 # TERRAFORM PROJECT
